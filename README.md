@@ -4,7 +4,7 @@
         <img width="45%" src="https://github-readme-stats.vercel.app/api?username=RealStonerGamer&layout=compact&theme=merko&hide_border=true"/>
 
   </a></p>
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RealStonerGamer"> 
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RealStonerGamer&&theme=merko"> 
           <br></br>
           <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RealStonerGamer&theme=merko&layout=compact"/>
           <br></br>

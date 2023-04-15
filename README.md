@@ -1,4 +1,3 @@
-   <div align="center"><img src="https://komarev.com/ghpvc/?username=RealStonerGamer&label=Profile%20views&color=blue&style=plastic" alt="RealStonerGamer" /></div>
         
 <div align="center">
         <img width="45%" src="https://github-readme-stats.vercel.app/api?username=RealStonerGamer&layout=compact&theme=merko&hide_border=true"/>

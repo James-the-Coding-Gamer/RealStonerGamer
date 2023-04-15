@@ -1,4 +1,5 @@
 ### Hi there 👋
+ <div align="left"><img src="https://komarev.com/ghpvc/?username=RealStonerGamer&label=Profile%20views&color=blue&style=plastic" alt="RealStonerGamer" /></div>
 ![](https://komarev.com/ghpvc/?RealStonerGamer)
 
 <!--
